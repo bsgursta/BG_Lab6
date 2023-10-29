@@ -1,3 +1,4 @@
+# Bryan Gonzalez
 def encoder(in_str):
     en_str =''
     if len(in_str) == 8:
